@@ -1,0 +1,1306 @@
+[
+  {
+    "id": "1244",
+    "path": "Erkek > Aksesuar > Anahtarlık"
+  },
+  {
+    "id": "557",
+    "path": "Erkek > Aksesuar > Atkı & Bere"
+  },
+  {
+    "id": "1067",
+    "path": "Erkek > Aksesuar > Ayakkabı"
+  },
+  {
+    "id": "376",
+    "path": "Erkek > Aksesuar > Cep Mendili"
+  },
+  {
+    "id": "371",
+    "path": "Erkek > Aksesuar > Cüzdan & Kartlık"
+  },
+  {
+    "id": "1024",
+    "path": "Erkek > Aksesuar > Ekran Gözlüğü"
+  },
+  {
+    "id": "299",
+    "path": "Erkek > Aksesuar > Güneş Gözlüğü"
+  },
+  {
+    "id": "524",
+    "path": "Erkek > Aksesuar > Havlu"
+  },
+  {
+    "id": "1280",
+    "path": "Erkek > Aksesuar > Kemer"
+  },
+  {
+    "id": "314",
+    "path": "Erkek > Aksesuar > Saat"
+  },
+  {
+    "id": "455",
+    "path": "Erkek > Aksesuar > Çorap"
+  },
+  {
+    "id": "698",
+    "path": "Erkek > Aksesuar > Şapka"
+  },
+  {
+    "id": "1159",
+    "path": "Erkek > Bakım Ürünleri > Cilt Bakımı > Dudak Bakımı"
+  },
+  {
+    "id": "1158",
+    "path": "Erkek > Bakım Ürünleri > Cilt Bakımı > Göz Bakımı"
+  },
+  {
+    "id": "1160",
+    "path": "Erkek > Bakım Ürünleri > Cilt Bakımı > Güneş Ürünleri"
+  },
+  {
+    "id": "1162",
+    "path": "Erkek > Bakım Ürünleri > Cilt Bakımı > Masaj Taşı & Roller"
+  },
+  {
+    "id": "1161",
+    "path": "Erkek > Bakım Ürünleri > Cilt Bakımı > Peeling & Ovma"
+  },
+  {
+    "id": "1156",
+    "path": "Erkek > Bakım Ürünleri > Cilt Bakımı > Serum & Maske"
+  },
+  {
+    "id": "1155",
+    "path": "Erkek > Bakım Ürünleri > Cilt Bakımı > Tonik"
+  },
+  {
+    "id": "1157",
+    "path": "Erkek > Bakım Ürünleri > Cilt Bakımı > Yüz Kremi"
+  },
+  {
+    "id": "1154",
+    "path": "Erkek > Bakım Ürünleri > Cilt Bakımı > Yüz Temizleyici"
+  },
+  {
+    "id": "1165",
+    "path": "Erkek > Bakım Ürünleri > Saç & Sakal Bakımı > Sakal Bakım Ürünleri"
+  },
+  {
+    "id": "1164",
+    "path": "Erkek > Bakım Ürünleri > Saç & Sakal Bakımı > Saç Bakım Ürünleri"
+  },
+  {
+    "id": "1163",
+    "path": "Erkek > Bakım Ürünleri > Saç & Sakal Bakımı > Şampuan & Saç Kremi"
+  },
+  {
+    "id": "1151",
+    "path": "Erkek > Bakım Ürünleri > Vücut Bakımı > Bakım Yağı"
+  },
+  {
+    "id": "1147",
+    "path": "Erkek > Bakım Ürünleri > Vücut Bakımı > Duş Jeli & Vücut Ovması"
+  },
+  {
+    "id": "1146",
+    "path": "Erkek > Bakım Ürünleri > Vücut Bakımı > El & Ayak Bakımı"
+  },
+  {
+    "id": "1153",
+    "path": "Erkek > Bakım Ürünleri > Vücut Bakımı > Fırça & Keseler"
+  },
+  {
+    "id": "1152",
+    "path": "Erkek > Bakım Ürünleri > Vücut Bakımı > Kişisel Hijyen Ürünleri"
+  },
+  {
+    "id": "1149",
+    "path": "Erkek > Bakım Ürünleri > Vücut Bakımı > Parfüm & Deodorant & Vücut Spreyi"
+  },
+  {
+    "id": "1148",
+    "path": "Erkek > Bakım Ürünleri > Vücut Bakımı > Sabun"
+  },
+  {
+    "id": "1150",
+    "path": "Erkek > Bakım Ürünleri > Vücut Bakımı > Vücut Nemlendirici"
+  },
+  {
+    "id": "678",
+    "path": "Erkek > Giyim > Dış Giyim > Ceket"
+  },
+  {
+    "id": "679",
+    "path": "Erkek > Giyim > Dış Giyim > Mont"
+  },
+  {
+    "id": "680",
+    "path": "Erkek > Giyim > Dış Giyim > Palto"
+  },
+  {
+    "id": "688",
+    "path": "Erkek > Giyim > Dış Giyim > Yağmurluk"
+  },
+  {
+    "id": "1018",
+    "path": "Erkek > Giyim > Eşofman"
+  },
+  {
+    "id": "361",
+    "path": "Erkek > Giyim > Gömlek"
+  },
+  {
+    "id": "525",
+    "path": "Erkek > Giyim > Mayo"
+  },
+  {
+    "id": "370",
+    "path": "Erkek > Giyim > Pantolon"
+  },
+  {
+    "id": "335",
+    "path": "Erkek > Giyim > Sweatshirt & Kazak"
+  },
+  {
+    "id": "290",
+    "path": "Erkek > Giyim > Tişört"
+  },
+  {
+    "id": "968",
+    "path": "Erkek > Giyim > İç Giyim & Pijama"
+  },
+  {
+    "id": "1171",
+    "path": "Erkek > Giyim > Şort"
+  },
+  {
+    "id": "891",
+    "path": "Erkek > Çanta > Bel Çantası"
+  },
+  {
+    "id": "572",
+    "path": "Erkek > Çanta > El Çantası"
+  },
+  {
+    "id": "573",
+    "path": "Erkek > Çanta > Laptop Ve Tablet Çantası"
+  },
+  {
+    "id": "574",
+    "path": "Erkek > Çanta > Seyahat & Spor Çantası"
+  },
+  {
+    "id": "571",
+    "path": "Erkek > Çanta > Sırt Çantası"
+  },
+  {
+    "id": "766",
+    "path": "Ev > Aydınlatma > Abajur"
+  },
+  {
+    "id": "333",
+    "path": "Ev > Aydınlatma > Dekoratif Aydınlatma"
+  },
+  {
+    "id": "375",
+    "path": "Ev > Aydınlatma > Duvar Aydınlatma Modelleri"
+  },
+  {
+    "id": "328",
+    "path": "Ev > Aydınlatma > Masa Lambaları"
+  },
+  {
+    "id": "327",
+    "path": "Ev > Aydınlatma > Tavan Aydınlatmaları - Sarkıt Lambalar"
+  },
+  {
+    "id": "326",
+    "path": "Ev > Aydınlatma > Yer Aydınlatmaları"
+  },
+  {
+    "id": "1305",
+    "path": "Ev > Ev Aksesuarları > Banyo Aksesuarları > Banyo Mobilyası"
+  },
+  {
+    "id": "671",
+    "path": "Ev > Ev Aksesuarları > Banyo Aksesuarları > Banyo Paspası"
+  },
+  {
+    "id": "668",
+    "path": "Ev > Ev Aksesuarları > Banyo Aksesuarları > Diş Fırçalık"
+  },
+  {
+    "id": "669",
+    "path": "Ev > Ev Aksesuarları > Banyo Aksesuarları > Havluluk"
+  },
+  {
+    "id": "667",
+    "path": "Ev > Ev Aksesuarları > Banyo Aksesuarları > Sabunluk"
+  },
+  {
+    "id": "687",
+    "path": "Ev > Ev Aksesuarları > Banyo Aksesuarları > Sepet"
+  },
+  {
+    "id": "321",
+    "path": "Ev > Ev Aksesuarları > Duvar Aksesuarları"
+  },
+  {
+    "id": "900",
+    "path": "Ev > Ev Aksesuarları > Duvar Askıları"
+  },
+  {
+    "id": "1314",
+    "path": "Ev > Ev Aksesuarları > Radyatör"
+  },
+  {
+    "id": "540",
+    "path": "Ev > Ev Aksesuarları > Saklama Ve Düzenleme"
+  },
+  {
+    "id": "418",
+    "path": "Ev > Ev Aksesuarları > Tavan Aksesuarları"
+  },
+  {
+    "id": "1227",
+    "path": "Ev > Ev Bakımı > Oda Kokuları"
+  },
+  {
+    "id": "1230",
+    "path": "Ev > Ev Bakımı > Temizlik Ürünleri"
+  },
+  {
+    "id": "1229",
+    "path": "Ev > Ev Bakımı > Tütsü & Tütsülükler"
+  },
+  {
+    "id": "1228",
+    "path": "Ev > Ev Bakımı > Uçucu Yağ & Buhurdanlıklar"
+  },
+  {
+    "id": "773",
+    "path": "Ev > Ev Dekorasyon > Ayna"
+  },
+  {
+    "id": "1017",
+    "path": "Ev > Ev Dekorasyon > Dekoratif Obje"
+  },
+  {
+    "id": "1294",
+    "path": "Ev > Ev Dekorasyon > Kulplar"
+  },
+  {
+    "id": "1236",
+    "path": "Ev > Ev Dekorasyon > Mum & Mumluk > Mum"
+  },
+  {
+    "id": "1237",
+    "path": "Ev > Ev Dekorasyon > Mum & Mumluk > Mumluk"
+  },
+  {
+    "id": "775",
+    "path": "Ev > Ev Dekorasyon > Saat"
+  },
+  {
+    "id": "777",
+    "path": "Ev > Ev Dekorasyon > Saksı & Bitki"
+  },
+  {
+    "id": "774",
+    "path": "Ev > Ev Dekorasyon > Vazo"
+  },
+  {
+    "id": "778",
+    "path": "Ev > Ev Dekorasyon > Çerçeve"
+  },
+  {
+    "id": "1210",
+    "path": "Ev > Ev Dekorasyon > Şömine & Barbekü"
+  },
+  {
+    "id": "1297",
+    "path": "Ev > Ev Tekstili > Battaniye"
+  },
+  {
+    "id": "1301",
+    "path": "Ev > Ev Tekstili > Bornoz"
+  },
+  {
+    "id": "769",
+    "path": "Ev > Ev Tekstili > Halı & Kilim"
+  },
+  {
+    "id": "1242",
+    "path": "Ev > Ev Tekstili > Havlu & Peştemal > Ayak Havlusu"
+  },
+  {
+    "id": "1240",
+    "path": "Ev > Ev Tekstili > Havlu & Peştemal > El & Yüz Havlusu"
+  },
+  {
+    "id": "1238",
+    "path": "Ev > Ev Tekstili > Havlu & Peştemal > Peştemal"
+  },
+  {
+    "id": "1241",
+    "path": "Ev > Ev Tekstili > Havlu & Peştemal > Vücut Havlusu"
+  },
+  {
+    "id": "1298",
+    "path": "Ev > Ev Tekstili > Nevresim"
+  },
+  {
+    "id": "768",
+    "path": "Ev > Ev Tekstili > Paspas"
+  },
+  {
+    "id": "1313",
+    "path": "Ev > Ev Tekstili > Perde"
+  },
+  {
+    "id": "767",
+    "path": "Ev > Ev Tekstili > Yastık"
+  },
+  {
+    "id": "771",
+    "path": "Ev > Ev Tekstili > Yatak & Koltuk Örtüleri"
+  },
+  {
+    "id": "741",
+    "path": "Ev > Mobilya > Askılık"
+  },
+  {
+    "id": "1289",
+    "path": "Ev > Mobilya > Bahçe Mobilyaları"
+  },
+  {
+    "id": "1085",
+    "path": "Ev > Mobilya > Bank"
+  },
+  {
+    "id": "1302",
+    "path": "Ev > Mobilya > Berjer"
+  },
+  {
+    "id": "1303",
+    "path": "Ev > Mobilya > Dolap"
+  },
+  {
+    "id": "764",
+    "path": "Ev > Mobilya > Dresuar & Konsol"
+  },
+  {
+    "id": "763",
+    "path": "Ev > Mobilya > Kitaplık"
+  },
+  {
+    "id": "1082",
+    "path": "Ev > Mobilya > Koltuk & Kanepe"
+  },
+  {
+    "id": "654",
+    "path": "Ev > Mobilya > Masa > Yemek Masası"
+  },
+  {
+    "id": "683",
+    "path": "Ev > Mobilya > Masa > Çalışma Masası"
+  },
+  {
+    "id": "1084",
+    "path": "Ev > Mobilya > Puf"
+  },
+  {
+    "id": "1234",
+    "path": "Ev > Mobilya > Sandalye & Tabure > Sandalye"
+  },
+  {
+    "id": "1235",
+    "path": "Ev > Mobilya > Sandalye & Tabure > Tabure"
+  },
+  {
+    "id": "759",
+    "path": "Ev > Mobilya > Sehpa Modelleri > Orta Sehpa"
+  },
+  {
+    "id": "760",
+    "path": "Ev > Mobilya > Sehpa Modelleri > Yan Sehpa"
+  },
+  {
+    "id": "761",
+    "path": "Ev > Mobilya > Sehpa Modelleri > Zigon Sehpa"
+  },
+  {
+    "id": "1315",
+    "path": "Ev > Mobilya > Tv Ünitesi"
+  },
+  {
+    "id": "298",
+    "path": "Ev > Mobilya > Vitrin & Büfe"
+  },
+  {
+    "id": "1231",
+    "path": "Ev > Mobilya > Yatak & Karyola"
+  },
+  {
+    "id": "1304",
+    "path": "Ev > Mobilya > Şifonyer & Komodin"
+  },
+  {
+    "id": "1009",
+    "path": "Ev > Mutfak & Sofra > Bardak & Fincan & Kupa"
+  },
+  {
+    "id": "1021",
+    "path": "Ev > Mutfak & Sofra > Pişirme & Hazırlama"
+  },
+  {
+    "id": "757",
+    "path": "Ev > Mutfak & Sofra > Saklama & Düzenleme"
+  },
+  {
+    "id": "1119",
+    "path": "Ev > Mutfak & Sofra > Sofra Tekstili"
+  },
+  {
+    "id": "756",
+    "path": "Ev > Mutfak & Sofra > Sunum Aksesuarları"
+  },
+  {
+    "id": "1122",
+    "path": "Ev > Mutfak & Sofra > Tabak & Kase > Kase"
+  },
+  {
+    "id": "1123",
+    "path": "Ev > Mutfak & Sofra > Tabak & Kase > Setler"
+  },
+  {
+    "id": "1121",
+    "path": "Ev > Mutfak & Sofra > Tabak & Kase > Tabak"
+  },
+  {
+    "id": "1120",
+    "path": "Ev > Mutfak & Sofra > Çatal & Kaşık & Bıçak"
+  },
+  {
+    "id": "1243",
+    "path": "Kadın > Aksesuar > Anahtarlık"
+  },
+  {
+    "id": "1001",
+    "path": "Kadın > Aksesuar > Atkı & Bere"
+  },
+  {
+    "id": "1066",
+    "path": "Kadın > Aksesuar > Ayakkabı"
+  },
+  {
+    "id": "342",
+    "path": "Kadın > Aksesuar > Cüzdan & Kartlık"
+  },
+  {
+    "id": "1023",
+    "path": "Kadın > Aksesuar > Ekran Gözlüğü"
+  },
+  {
+    "id": "339",
+    "path": "Kadın > Aksesuar > Güneş Gözlüğü"
+  },
+  {
+    "id": "354",
+    "path": "Kadın > Aksesuar > Havlu"
+  },
+  {
+    "id": "1279",
+    "path": "Kadın > Aksesuar > Kemer"
+  },
+  {
+    "id": "341",
+    "path": "Kadın > Aksesuar > Saat"
+  },
+  {
+    "id": "549",
+    "path": "Kadın > Aksesuar > Sandalet & Terlik"
+  },
+  {
+    "id": "1124",
+    "path": "Kadın > Aksesuar > Saç Aksesuarları"
+  },
+  {
+    "id": "454",
+    "path": "Kadın > Aksesuar > Çorap"
+  },
+  {
+    "id": "378",
+    "path": "Kadın > Aksesuar > Şal & Fular"
+  },
+  {
+    "id": "707",
+    "path": "Kadın > Aksesuar > Şapka"
+  },
+  {
+    "id": "672",
+    "path": "Kadın > Giyim > Dış Giyim > Ceket"
+  },
+  {
+    "id": "673",
+    "path": "Kadın > Giyim > Dış Giyim > Kimono & Kaftan"
+  },
+  {
+    "id": "674",
+    "path": "Kadın > Giyim > Dış Giyim > Mont"
+  },
+  {
+    "id": "675",
+    "path": "Kadın > Giyim > Dış Giyim > Palto"
+  },
+  {
+    "id": "685",
+    "path": "Kadın > Giyim > Dış Giyim > Yağmurluk"
+  },
+  {
+    "id": "686",
+    "path": "Kadın > Giyim > Dış Giyim > Yelek"
+  },
+  {
+    "id": "415",
+    "path": "Kadın > Giyim > Elbise"
+  },
+  {
+    "id": "689",
+    "path": "Kadın > Giyim > Etek"
+  },
+  {
+    "id": "694",
+    "path": "Kadın > Giyim > Gömlek & Bluz > Bluz"
+  },
+  {
+    "id": "693",
+    "path": "Kadın > Giyim > Gömlek & Bluz > Gömlek"
+  },
+  {
+    "id": "1272",
+    "path": "Kadın > Giyim > Hamile Giyim"
+  },
+  {
+    "id": "1196",
+    "path": "Kadın > Giyim > Kazak & Hırka"
+  },
+  {
+    "id": "967",
+    "path": "Kadın > Giyim > Kimono & Kaftan"
+  },
+  {
+    "id": "743",
+    "path": "Kadın > Giyim > Mayo & Bikini > Bikini"
+  },
+  {
+    "id": "742",
+    "path": "Kadın > Giyim > Mayo & Bikini > Mayo"
+  },
+  {
+    "id": "469",
+    "path": "Kadın > Giyim > Pantolon"
+  },
+  {
+    "id": "382",
+    "path": "Kadın > Giyim > Plaj Giyim"
+  },
+  {
+    "id": "677",
+    "path": "Kadın > Giyim > Spor Giyim > Alt Giyim"
+  },
+  {
+    "id": "676",
+    "path": "Kadın > Giyim > Spor Giyim > Üst Giyim"
+  },
+  {
+    "id": "334",
+    "path": "Kadın > Giyim > Sweatshirt"
+  },
+  {
+    "id": "338",
+    "path": "Kadın > Giyim > Tayt"
+  },
+  {
+    "id": "289",
+    "path": "Kadın > Giyim > Tişört"
+  },
+  {
+    "id": "690",
+    "path": "Kadın > Giyim > Tulum"
+  },
+  {
+    "id": "791",
+    "path": "Kadın > Giyim > İç Giyim & Pijama"
+  },
+  {
+    "id": "886",
+    "path": "Kadın > Giyim > Şort"
+  },
+  {
+    "id": "1130",
+    "path": "Kadın > Kişisel Bakım > Cilt Bakımı > Dudak Bakımı"
+  },
+  {
+    "id": "1129",
+    "path": "Kadın > Kişisel Bakım > Cilt Bakımı > Göz Bakımı"
+  },
+  {
+    "id": "1131",
+    "path": "Kadın > Kişisel Bakım > Cilt Bakımı > Güneş Ürünleri"
+  },
+  {
+    "id": "1133",
+    "path": "Kadın > Kişisel Bakım > Cilt Bakımı > Masaj Taşı & Roller"
+  },
+  {
+    "id": "1132",
+    "path": "Kadın > Kişisel Bakım > Cilt Bakımı > Peeling & Ovma"
+  },
+  {
+    "id": "1127",
+    "path": "Kadın > Kişisel Bakım > Cilt Bakımı > Serum & Maske"
+  },
+  {
+    "id": "1126",
+    "path": "Kadın > Kişisel Bakım > Cilt Bakımı > Tonik"
+  },
+  {
+    "id": "1128",
+    "path": "Kadın > Kişisel Bakım > Cilt Bakımı > Yüz Kremi"
+  },
+  {
+    "id": "1125",
+    "path": "Kadın > Kişisel Bakım > Cilt Bakımı > Yüz Temizleyici"
+  },
+  {
+    "id": "1143",
+    "path": "Kadın > Kişisel Bakım > Saç Bakımı > Saç Bakım Ürünleri"
+  },
+  {
+    "id": "1142",
+    "path": "Kadın > Kişisel Bakım > Saç Bakımı > Şampuan & Saç Kremi"
+  },
+  {
+    "id": "1139",
+    "path": "Kadın > Kişisel Bakım > Vücut Bakımı > Bakım Yağı"
+  },
+  {
+    "id": "1135",
+    "path": "Kadın > Kişisel Bakım > Vücut Bakımı > Duş Jeli & Vücut Ovması"
+  },
+  {
+    "id": "1134",
+    "path": "Kadın > Kişisel Bakım > Vücut Bakımı > El & Ayak Bakımı"
+  },
+  {
+    "id": "1141",
+    "path": "Kadın > Kişisel Bakım > Vücut Bakımı > Fırça & Keseler"
+  },
+  {
+    "id": "1140",
+    "path": "Kadın > Kişisel Bakım > Vücut Bakımı > Kişisel Hijyen Ürünleri"
+  },
+  {
+    "id": "1137",
+    "path": "Kadın > Kişisel Bakım > Vücut Bakımı > Parfüm & Deodorant & Vücut Spreyi"
+  },
+  {
+    "id": "1136",
+    "path": "Kadın > Kişisel Bakım > Vücut Bakımı > Sabun"
+  },
+  {
+    "id": "1138",
+    "path": "Kadın > Kişisel Bakım > Vücut Bakımı > Vücut Nemlendirici"
+  },
+  {
+    "id": "706",
+    "path": "Kadın > Çanta > Bel Çantası"
+  },
+  {
+    "id": "578",
+    "path": "Kadın > Çanta > Kadın El Çantası"
+  },
+  {
+    "id": "580",
+    "path": "Kadın > Çanta > Laptop & Tablet Çantası"
+  },
+  {
+    "id": "579",
+    "path": "Kadın > Çanta > Makyaj Çantası"
+  },
+  {
+    "id": "575",
+    "path": "Kadın > Çanta > Omuz Çantası"
+  },
+  {
+    "id": "582",
+    "path": "Kadın > Çanta > Plaj Çantası"
+  },
+  {
+    "id": "577",
+    "path": "Kadın > Çanta > Portföy"
+  },
+  {
+    "id": "581",
+    "path": "Kadın > Çanta > Seyahat & Spor Çantası"
+  },
+  {
+    "id": "576",
+    "path": "Kadın > Çanta > Sırt Çantası"
+  },
+  {
+    "id": "1286",
+    "path": "Kadın > Çanta > Çanta Aksesuarları"
+  },
+  {
+    "id": "854",
+    "path": "Ofis > Aksesuar > Düzenleme"
+  },
+  {
+    "id": "853",
+    "path": "Ofis > Aksesuar > Masaüstü Aksesuarları"
+  },
+  {
+    "id": "855",
+    "path": "Ofis > Aksesuar > Saat"
+  },
+  {
+    "id": "850",
+    "path": "Ofis > Aydınlatma > Masa Lambaları"
+  },
+  {
+    "id": "852",
+    "path": "Ofis > Aydınlatma > Tavan Aydınlatmaları"
+  },
+  {
+    "id": "851",
+    "path": "Ofis > Aydınlatma > Yer Aydınlatmaları"
+  },
+  {
+    "id": "856",
+    "path": "Ofis > Kırtasiye > Defter"
+  },
+  {
+    "id": "857",
+    "path": "Ofis > Kırtasiye > Kalem"
+  },
+  {
+    "id": "1296",
+    "path": "Ofis > Kırtasiye > Kalem Çantası"
+  },
+  {
+    "id": "859",
+    "path": "Ofis > Kırtasiye > Kartpostal"
+  },
+  {
+    "id": "1295",
+    "path": "Ofis > Kırtasiye > Okul Çantası"
+  },
+  {
+    "id": "858",
+    "path": "Ofis > Kırtasiye > Planlayıcı & Sticker"
+  },
+  {
+    "id": "849",
+    "path": "Ofis > Mobilya > Depolama"
+  },
+  {
+    "id": "1063",
+    "path": "Ofis > Mobilya > Koltuk & Berjer"
+  },
+  {
+    "id": "847",
+    "path": "Ofis > Mobilya > Sandalye"
+  },
+  {
+    "id": "846",
+    "path": "Ofis > Mobilya > Sehpa"
+  },
+  {
+    "id": "848",
+    "path": "Ofis > Mobilya > Tabure & Puf"
+  },
+  {
+    "id": "1300",
+    "path": "Ofis > Mobilya > Çalışma Masası"
+  },
+  {
+    "id": "622",
+    "path": "Sanat > Art Print / Poster > Grafik Tasarım"
+  },
+  {
+    "id": "621",
+    "path": "Sanat > Art Print / Poster > İllüstrasyon"
+  },
+  {
+    "id": "877",
+    "path": "Sanat > Fotoğraf"
+  },
+  {
+    "id": "456",
+    "path": "Sanat > Fıne Art Baskı"
+  },
+  {
+    "id": "943",
+    "path": "Sanat > Galeri"
+  },
+  {
+    "id": "332",
+    "path": "Sanat > Kanvas"
+  },
+  {
+    "id": "450",
+    "path": "Sanat > Kasnak"
+  },
+  {
+    "id": "279",
+    "path": "Sanat > Obje & Heykel"
+  },
+  {
+    "id": "1199",
+    "path": "Sanat > Resim & Tablo > Resim"
+  },
+  {
+    "id": "1200",
+    "path": "Sanat > Resim & Tablo > Tablo"
+  },
+  {
+    "id": "1308",
+    "path": "Takı > Erkek Takı > Bileklik"
+  },
+  {
+    "id": "1311",
+    "path": "Takı > Erkek Takı > Kol Düğmesi"
+  },
+  {
+    "id": "1309",
+    "path": "Takı > Erkek Takı > Kolye"
+  },
+  {
+    "id": "1310",
+    "path": "Takı > Erkek Takı > Küpe"
+  },
+  {
+    "id": "1307",
+    "path": "Takı > Erkek Takı > Yüzük"
+  },
+  {
+    "id": "277",
+    "path": "Takı > Kadın Takı > Bileklik"
+  },
+  {
+    "id": "556",
+    "path": "Takı > Kadın Takı > Düzenleyiciler"
+  },
+  {
+    "id": "1144",
+    "path": "Takı > Kadın Takı > Earcuff"
+  },
+  {
+    "id": "1225",
+    "path": "Takı > Kadın Takı > Halhal"
+  },
+  {
+    "id": "276",
+    "path": "Takı > Kadın Takı > Kolye"
+  },
+  {
+    "id": "278",
+    "path": "Takı > Kadın Takı > Küpe"
+  },
+  {
+    "id": "1287",
+    "path": "Takı > Kadın Takı > Piercing"
+  },
+  {
+    "id": "414",
+    "path": "Takı > Kadın Takı > Pin"
+  },
+  {
+    "id": "275",
+    "path": "Takı > Kadın Takı > Yüzük"
+  },
+  {
+    "id": "1283",
+    "path": "Teknoloji > Akıllı Ev Sistemleri"
+  },
+  {
+    "id": "1263",
+    "path": "Teknoloji > Görüntü & Ses > Aksesuar"
+  },
+  {
+    "id": "1257",
+    "path": "Teknoloji > Görüntü & Ses > Hoparlör"
+  },
+  {
+    "id": "1259",
+    "path": "Teknoloji > Görüntü & Ses > Kulaklık"
+  },
+  {
+    "id": "1258",
+    "path": "Teknoloji > Görüntü & Ses > Soundbar"
+  },
+  {
+    "id": "1251",
+    "path": "Teknoloji > Kişisel Bakım Aletleri"
+  },
+  {
+    "id": "1254",
+    "path": "Teknoloji > Küçük Ev Aletleri > Blender Ve Mutfak Robotu"
+  },
+  {
+    "id": "1252",
+    "path": "Teknoloji > Küçük Ev Aletleri > Kahve Makinesi"
+  },
+  {
+    "id": "1253",
+    "path": "Teknoloji > Küçük Ev Aletleri > Kahve Öğütücü & Değirmeni"
+  },
+  {
+    "id": "1255",
+    "path": "Teknoloji > Küçük Ev Aletleri > Pişiriciler"
+  },
+  {
+    "id": "1284",
+    "path": "Teknoloji > Küçük Ev Aletleri > Süpürge & Temizlik Gereçleri"
+  },
+  {
+    "id": "1282",
+    "path": "Teknoloji > Küçük Ev Aletleri > Ütü"
+  },
+  {
+    "id": "1261",
+    "path": "Teknoloji > Telefon & Bilgisayar > Bilgisayar Aksesuarları"
+  },
+  {
+    "id": "1285",
+    "path": "Teknoloji > Telefon & Bilgisayar > E-kitap"
+  },
+  {
+    "id": "1262",
+    "path": "Teknoloji > Telefon & Bilgisayar > Güç & Şarj Ünitesi"
+  },
+  {
+    "id": "1260",
+    "path": "Teknoloji > Telefon & Bilgisayar > Telefon Aksesuar & Kılıf"
+  },
+  {
+    "id": "1111",
+    "path": "Yaşam > Gıda & İçecek"
+  },
+  {
+    "id": "1288",
+    "path": "Yaşam > Hediye Kutuları"
+  },
+  {
+    "id": "881",
+    "path": "Yaşam > Kahve & Çay > Kahve Çekirdekleri"
+  },
+  {
+    "id": "567",
+    "path": "Yaşam > Kahve & Çay > Çay"
+  },
+  {
+    "id": "1178",
+    "path": "Yaşam > Kedi - Pet > Mama Kabı"
+  },
+  {
+    "id": "1175",
+    "path": "Yaşam > Kedi - Pet > Oyuncak"
+  },
+  {
+    "id": "1176",
+    "path": "Yaşam > Kedi - Pet > Tasma & Kıyafet"
+  },
+  {
+    "id": "1179",
+    "path": "Yaşam > Kedi - Pet > Yatak"
+  },
+  {
+    "id": "1183",
+    "path": "Yaşam > Köpek - Pet > Mama Kabı"
+  },
+  {
+    "id": "1180",
+    "path": "Yaşam > Köpek - Pet > Oyuncak"
+  },
+  {
+    "id": "1181",
+    "path": "Yaşam > Köpek - Pet > Tasma & Kıyafet"
+  },
+  {
+    "id": "1184",
+    "path": "Yaşam > Köpek - Pet > Yatak"
+  },
+  {
+    "id": "1186",
+    "path": "Yaşam > Outdoor > Spor & Hobi"
+  },
+  {
+    "id": "949",
+    "path": "Yaşam > Outdoor > Termos & Matara"
+  },
+  {
+    "id": "1299",
+    "path": "Yaşam > Outdoor > Şemsiye"
+  },
+  {
+    "id": "1209",
+    "path": "Yaşam > Outdoor > Şömine & Barbekü"
+  },
+  {
+    "id": "895",
+    "path": "Yaşam > Parti > Parti Masası & Süsleri"
+  },
+  {
+    "id": "703",
+    "path": "Yaşam > Yoga > Yoga Aksesuarları"
+  },
+  {
+    "id": "699",
+    "path": "Yaşam > Yoga > Yoga Matı"
+  },
+  {
+    "id": "700",
+    "path": "Yaşam > Yoga > Yoga Taytı"
+  },
+  {
+    "id": "939",
+    "path": "Yaşam > Yoga > Yoga Üst Giyim"
+  },
+  {
+    "id": "1092",
+    "path": "Çocuk > Aksesuar > Atkı & Bere & Şapka"
+  },
+  {
+    "id": "1201",
+    "path": "Çocuk > Aksesuar > Ayakkabı"
+  },
+  {
+    "id": "538",
+    "path": "Çocuk > Aksesuar > Bakım Ürünleri"
+  },
+  {
+    "id": "1216",
+    "path": "Çocuk > Aksesuar > Biberon & Emzik"
+  },
+  {
+    "id": "1275",
+    "path": "Çocuk > Aksesuar > Bisiklet & Scooter"
+  },
+  {
+    "id": "1276",
+    "path": "Çocuk > Aksesuar > Diş Kaşıyıcı"
+  },
+  {
+    "id": "960",
+    "path": "Çocuk > Aksesuar > Güneş Gözlüğü"
+  },
+  {
+    "id": "1278",
+    "path": "Çocuk > Aksesuar > Gıda & İçecek"
+  },
+  {
+    "id": "551",
+    "path": "Çocuk > Aksesuar > Havlu & Örtü"
+  },
+  {
+    "id": "539",
+    "path": "Çocuk > Aksesuar > Oyun & Oyuncak"
+  },
+  {
+    "id": "1264",
+    "path": "Çocuk > Aksesuar > Saat"
+  },
+  {
+    "id": "969",
+    "path": "Çocuk > Aksesuar > Sandalet & Terlik"
+  },
+  {
+    "id": "1292",
+    "path": "Çocuk > Aksesuar > Saç Aksesuarları"
+  },
+  {
+    "id": "537",
+    "path": "Çocuk > Aksesuar > Çocuk & Anne Çantaları"
+  },
+  {
+    "id": "1043",
+    "path": "Çocuk > Erkek Bebek & Çocuk Giyim > Bodysuit"
+  },
+  {
+    "id": "1192",
+    "path": "Çocuk > Erkek Bebek & Çocuk Giyim > Dış Giyim"
+  },
+  {
+    "id": "1041",
+    "path": "Çocuk > Erkek Bebek & Çocuk Giyim > Eşofman & Pantolon"
+  },
+  {
+    "id": "1194",
+    "path": "Çocuk > Erkek Bebek & Çocuk Giyim > Gömlek"
+  },
+  {
+    "id": "1044",
+    "path": "Çocuk > Erkek Bebek & Çocuk Giyim > Mayo"
+  },
+  {
+    "id": "1039",
+    "path": "Çocuk > Erkek Bebek & Çocuk Giyim > Sweatshirt & Kazak"
+  },
+  {
+    "id": "1245",
+    "path": "Çocuk > Erkek Bebek & Çocuk Giyim > Takım"
+  },
+  {
+    "id": "1038",
+    "path": "Çocuk > Erkek Bebek & Çocuk Giyim > Tişört"
+  },
+  {
+    "id": "1036",
+    "path": "Çocuk > Erkek Bebek & Çocuk Giyim > Tulum"
+  },
+  {
+    "id": "1037",
+    "path": "Çocuk > Erkek Bebek & Çocuk Giyim > Uyku Tulumu & Pijama"
+  },
+  {
+    "id": "1273",
+    "path": "Çocuk > Erkek Bebek & Çocuk Giyim > Yelek"
+  },
+  {
+    "id": "1040",
+    "path": "Çocuk > Erkek Bebek & Çocuk Giyim > Önlük"
+  },
+  {
+    "id": "1054",
+    "path": "Çocuk > Erkek Bebek & Çocuk Giyim > Şort"
+  },
+  {
+    "id": "1051",
+    "path": "Çocuk > Kız Bebek & Çocuk Giyim > Bodysuit"
+  },
+  {
+    "id": "1193",
+    "path": "Çocuk > Kız Bebek & Çocuk Giyim > Dış Giyim"
+  },
+  {
+    "id": "1052",
+    "path": "Çocuk > Kız Bebek & Çocuk Giyim > Etek & Elbise"
+  },
+  {
+    "id": "1050",
+    "path": "Çocuk > Kız Bebek & Çocuk Giyim > Eşofman & Pantolon"
+  },
+  {
+    "id": "1053",
+    "path": "Çocuk > Kız Bebek & Çocuk Giyim > Mayo & Bikini"
+  },
+  {
+    "id": "1048",
+    "path": "Çocuk > Kız Bebek & Çocuk Giyim > Sweatshirt & Kazak"
+  },
+  {
+    "id": "1246",
+    "path": "Çocuk > Kız Bebek & Çocuk Giyim > Takım"
+  },
+  {
+    "id": "1047",
+    "path": "Çocuk > Kız Bebek & Çocuk Giyim > Tişört & Bluz"
+  },
+  {
+    "id": "1045",
+    "path": "Çocuk > Kız Bebek & Çocuk Giyim > Tulum"
+  },
+  {
+    "id": "1046",
+    "path": "Çocuk > Kız Bebek & Çocuk Giyim > Uyku Tulumu & Pijama"
+  },
+  {
+    "id": "1274",
+    "path": "Çocuk > Kız Bebek & Çocuk Giyim > Yelek"
+  },
+  {
+    "id": "1049",
+    "path": "Çocuk > Kız Bebek & Çocuk Giyim > Önlük"
+  },
+  {
+    "id": "1055",
+    "path": "Çocuk > Kız Bebek & Çocuk Giyim > Şort"
+  },
+  {
+    "id": "1266",
+    "path": "Çocuk > Çocuk & Bebek Gereçleri > Bebek Arabası"
+  },
+  {
+    "id": "1270",
+    "path": "Çocuk > Çocuk & Bebek Gereçleri > Bebek Arabası Akseuarları"
+  },
+  {
+    "id": "1271",
+    "path": "Çocuk > Çocuk & Bebek Gereçleri > Güvenlik"
+  },
+  {
+    "id": "1269",
+    "path": "Çocuk > Çocuk & Bebek Gereçleri > Lazımlık"
+  },
+  {
+    "id": "1267",
+    "path": "Çocuk > Çocuk & Bebek Gereçleri > Oto Koltuğu"
+  },
+  {
+    "id": "1268",
+    "path": "Çocuk > Çocuk & Bebek Gereçleri > Oto Koltuğu Aksesuarları"
+  },
+  {
+    "id": "1277",
+    "path": "Çocuk > Çocuk & Bebek Gereçleri > Park Yatak & Oyun Parkı"
+  },
+  {
+    "id": "535",
+    "path": "Çocuk > Çocuk Odası > Art Print"
+  },
+  {
+    "id": "1191",
+    "path": "Çocuk > Çocuk Odası > Aydınlatma > Masa & Yer Aydınlatmaları"
+  },
+  {
+    "id": "1190",
+    "path": "Çocuk > Çocuk Odası > Aydınlatma > Tavan Aydınlatmaları"
+  },
+  {
+    "id": "532",
+    "path": "Çocuk > Çocuk Odası > Duvar Aksesuarları"
+  },
+  {
+    "id": "533",
+    "path": "Çocuk > Çocuk Odası > Halı"
+  },
+  {
+    "id": "1188",
+    "path": "Çocuk > Çocuk Odası > Mobilya > Masa & Oturma Elemanları"
+  },
+  {
+    "id": "1189",
+    "path": "Çocuk > Çocuk Odası > Mobilya > Yatak & Dolap & Şifonyer"
+  },
+  {
+    "id": "1187",
+    "path": "Çocuk > Çocuk Odası > Nevresim & Örtü"
+  },
+  {
+    "id": "531",
+    "path": "Çocuk > Çocuk Odası > Saklama & Düzenleme"
+  },
+  {
+    "id": "544",
+    "path": "Çocuk > Çocuk Odası > Tavan Aksesuarları"
+  },
+  {
+    "id": "534",
+    "path": "Çocuk > Çocuk Odası > Yastık"
+  }
+]

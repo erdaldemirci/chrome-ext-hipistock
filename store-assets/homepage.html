@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="tr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Hipistock — Shopify → Hipicon</title>
+    <meta
+      name="description"
+      content="Shopify ürün kataloğunu Hipicon satıcı paneline aktaran Chrome eklentisi."
+    />
+    <link rel="canonical" href="https://erdaldemirci.com.tr/ext/hipistock/" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,650&family=Source+Sans+3:wght@400;600&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      :root {
+        --bg: #f7f7f5;
+        --ink: #171717;
+        --muted: #5c5c5c;
+        --line: #e2e2de;
+        --accent: #0f3d2e;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        color: var(--ink);
+        font-family: "Source Sans 3", system-ui, sans-serif;
+        background: linear-gradient(180deg, #eef2ef 0%, var(--bg) 38%);
+        line-height: 1.5;
+      }
+
+      .wrap {
+        max-width: 48rem;
+        margin: 0 auto;
+        padding: 2rem 1.25rem 3rem;
+      }
+
+      header {
+        display: flex;
+        justify-content: space-between;
+        align-items: baseline;
+        margin-bottom: 2rem;
+      }
+
+      .brand {
+        font-family: Newsreader, Georgia, serif;
+        font-size: 1.5rem;
+        font-weight: 650;
+        text-decoration: none;
+        color: var(--ink);
+      }
+
+      header a.nav {
+        color: var(--muted);
+        text-decoration: none;
+        font-size: 0.95rem;
+      }
+
+      h1 {
+        margin: 0 0 0.65rem;
+        font-family: Newsreader, Georgia, serif;
+        font-weight: 650;
+        font-size: clamp(2rem, 5.5vw, 2.75rem);
+        letter-spacing: -0.02em;
+        line-height: 1.15;
+      }
+
+      .lead {
+        margin: 0 0 1.25rem;
+        color: var(--muted);
+        font-size: 1.05rem;
+        max-width: 36rem;
+      }
+
+      .actions {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.65rem;
+        margin-bottom: 1.75rem;
+      }
+
+      .btn {
+        display: inline-flex;
+        align-items: center;
+        padding: 0.65rem 1rem;
+        text-decoration: none;
+        font-size: 0.95rem;
+        font-weight: 600;
+        border: 1px solid transparent;
+      }
+
+      .btn-main {
+        background: var(--accent);
+        color: #fff;
+      }
+
+      .btn-soft {
+        background: transparent;
+        color: var(--ink);
+        border-color: var(--line);
+      }
+
+      .shot {
+        margin: 0;
+        border: 1px solid var(--line);
+        background: #fff;
+      }
+
+      .shot img {
+        display: block;
+        width: 100%;
+        height: auto;
+      }
+
+      .shot figcaption {
+        padding: 0.55rem 0.85rem;
+        font-size: 0.82rem;
+        color: var(--muted);
+        border-top: 1px solid var(--line);
+      }
+
+      .note {
+        margin: 1.5rem 0 0;
+        color: var(--muted);
+        font-size: 0.95rem;
+      }
+
+      footer {
+        margin-top: 2.25rem;
+        padding-top: 1rem;
+        border-top: 1px solid var(--line);
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.75rem 1.25rem;
+        justify-content: space-between;
+        color: var(--muted);
+        font-size: 0.88rem;
+      }
+
+      footer a {
+        color: var(--ink);
+        text-decoration: none;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrap">
+      <header>
+        <a class="brand" href="/ext/hipistock/">Hipistock</a>
+        <a class="nav" href="/ext/hipistock/privacy-policy/">Gizlilik</a>
+      </header>
+
+      <h1>Shopify’dan Hipicon’a katalog aktarımı</h1>
+      <p class="lead">
+        Herhangi bir Shopify mağazasının ürün, fiyat ve stokunu Hipicon satıcı
+        paneline aktaran Chrome eklentisi. Yayıncı: Erdal Demirci.
+      </p>
+
+      <div class="actions">
+        <a class="btn btn-main" href="https://chromewebstore.google.com/"
+          >Chrome’a yükle</a
+        >
+        <a class="btn btn-soft" href="/ext/hipistock/privacy-policy/"
+          >Gizlilik politikası</a
+        >
+      </div>
+
+      <figure class="shot">
+        <img
+          src="screenshot.jpg?v=2"
+          width="1280"
+          height="800"
+          alt="Hipistock yan paneli: Shopify’dan çek, ürün seçimi ve Hipicon’a aktarım"
+          loading="eager"
+        />
+        <figcaption>Hipistock yan paneli</figcaption>
+      </figure>
+
+      <p class="note">
+        Veri yayıncıya gitmez. İşlem tarayıcınızda kalır.
+      </p>
+
+      <footer>
+        <span>© <span id="y"></span> Hipistock · Erdal Demirci</span>
+        <a href="/ext/hipistock/privacy-policy/">Privacy policy</a>
+      </footer>
+    </div>
+    <script>
+      document.getElementById("y").textContent = String(new Date().getFullYear());
+    </script>
+  </body>
+</html>
